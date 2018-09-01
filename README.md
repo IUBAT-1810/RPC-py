@@ -1,2 +1,2 @@
 # RPS-py
-Rock Paper Ceaser game with Python
+Rock Paper Scissors game with Python
